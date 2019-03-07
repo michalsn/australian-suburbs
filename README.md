@@ -1,6 +1,6 @@
 # Australian Postcodes
 
-All data was gathered from openly available sources - mainly Census 2016.
+All data was gathered from openly available sources - mainly 2016 Census.
 
 
 ### Structure
