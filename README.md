@@ -1,4 +1,4 @@
-# Australian Postcodes
+# Australian Suburbs
 
 All data was gathered from openly available sources - mainly 2016 Census.
 
@@ -6,7 +6,7 @@ All data was gathered from openly available sources - mainly 2016 Census.
 ### Structure
 
 * data
-	* MySQL table with postcodes - there is a lots of additional data though
+	* MySQL table with suburbs - there is a lots of additional data though
 	* CSV file with the same data as above
 * GeoJSON
 	* Geometric data for suburbs
