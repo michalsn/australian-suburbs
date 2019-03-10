@@ -10,8 +10,8 @@ All data was gathered from openly available sources - mainly [2016 Census](http:
 	* CSV file with the same data as above
 	* JSON file with the same data as above
 * GeoJSON
-	* Boundaries for suburbs
-	* Boundaries for postcodes
+	* Suburbs boundaries
+	* Postcodes boundaries
 
 ## MySQL/CSV/JSON sample data
 
